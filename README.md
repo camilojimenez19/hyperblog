@@ -1,2 +1,2 @@
-# hyperblog
-Esto es un super blog
+Un blog increíble para el curso de Git y Github de Platzi
+
